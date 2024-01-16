@@ -1,0 +1,62 @@
+body {
+    background-color: #000000;
+}
+
+.row {
+    height: 100%;
+    width: 100%;
+}
+
+.max-height {
+    height: 100%;
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+
+}
+/* Borders */
+
+.borders {
+    border-top: black 1px solid;
+    border-left: black 1px solid;
+    border-right: #202020 1px solid;
+    border-bottom: #202020 1px solid;
+
+}
+
+/* Colors */
+
+.grey {
+    background-color: #666666;
+}
+
+.dark-grey {
+    background-color: #141414;
+}
+
+.green {
+    background-color: #48FE02;
+}
+
+.red {
+    background-color: #F40002;
+}
+
+.orange {
+    background-color: #C75000;
+}
+
+.fucsia {
+    background-color: #EF06F9;
+}
+
+.yellow {
+    background-color: #FBFF08;
+}
+
+.azure {
+    background-color: #46CFD1;
+}
+
