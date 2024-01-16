@@ -1,5 +1,7 @@
 body {
     background-color: #000000;
+    
+      
 }
 
 .row {
@@ -21,9 +23,25 @@ body {
 
 }
 
-h1, h2 {
+.square-s {
+    width: 60px;
+    height: 50px;
+
+}
+
+/* Taxt */
+
+h1 {
+    font-family: "Bungee Spice", sans-serif;
     color: white;
 }
+
+h2 {
+    font-family: sans-serif;
+    color: white;
+}
+
+
 
 
 /* Borders */
@@ -33,6 +51,14 @@ h1, h2 {
     border-left: black 2px solid;
     border-right: #202020 2px solid;
     border-bottom: #202020 2px solid;
+
+}
+
+.borders-s {
+    border-top: black 2px solid;
+    border-left: black  2px solid;
+    border-right: black 2px solid;
+    border-bottom: black 2px solid;
 
 }
 
