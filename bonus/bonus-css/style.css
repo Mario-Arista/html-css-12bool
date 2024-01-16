@@ -20,6 +20,12 @@ body {
     height: 50px;
 
 }
+
+h1, h2 {
+    color: white;
+}
+
+
 /* Borders */
 
 .borders {
