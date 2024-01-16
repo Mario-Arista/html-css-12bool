@@ -218,14 +218,74 @@
     align-items: flex-end;
 }
 
-
-
 /***********************************************
-    Margin top rules
+    Position & z-index rules
  ***********************************************
 /
 
-/* several dimensions, from 2px to 30px */
+/* Absolute, relative, fixed */
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.fixex {
+    position: fixed;
+}
+
+/* Z-index */
+
+.z-1 {
+    z-index: 1;
+}
+
+.z-2 {
+    z-index: 2;
+}
+
+.z-3 {
+    z-index: 3;
+}
+
+.z-4 {
+    z-index: 4;
+}
+
+.z-5 {
+    z-index: 5;
+}
+
+.z-6 {
+    z-index: 6;
+}
+
+.z-7 {
+    z-index: 7;
+}
+
+.z-8 {
+    z-index: 8;
+}
+
+.z-9 {
+    z-index: 9;
+}
+
+.z-10 {
+    z-index: 10;
+}
+
+
+/***********************************************
+    Margin Top & Margin Bottom rules
+ ***********************************************
+/
+
+/* Margin Top, from 2px to 30px */
 
 .mt-2 {
     margin-top: 2px;
@@ -288,13 +348,8 @@
 }
 
 
-/***********************************************
-    Margin bottom rules
- ***********************************************
-/
 
-
-/* several dimensions, from 2px to 30px */
+/* Margin Bottom, from 2px to 30px */
 
 .mb-2 {
     margin-bottom: 2px;
