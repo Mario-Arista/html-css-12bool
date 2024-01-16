@@ -1,16 +1,40 @@
 h1 {
     font-size: 20px;
 }
+
 .row {
-    height: 50px;
+    height: 70px;
     color: white;
 }
+
+/* Background color blue */
 
 .blue {
     background-color: #396CFA;
     
 }
+/* Background color green + height */
+
+.green {
+    background-color: #41E165;
+    height: 50px;
+    
+}
+
+/* Border white */
 
 .b-1 {
     border: white 1px solid; 
+}
+
+/* Border blue */
+.b-2 {
+    border: #396CFA 1px solid; 
+}
+
+/* Padding */
+
+.p-20 {
+    padding: 20px;
+
 }
